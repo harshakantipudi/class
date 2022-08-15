@@ -1,4 +1,6 @@
+from importlib import import_module
 import requests
+import_module
 from bs4 import BeautifulSoup
 import pandas as pd
 
